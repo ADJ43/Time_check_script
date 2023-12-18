@@ -1,0 +1,7 @@
+C:\Users\adjse\source\repos\Time_validation_Script\Time_validation_Script\bin\Debug\Time_validation_Script.exe.config
+C:\Users\adjse\source\repos\Time_validation_Script\Time_validation_Script\bin\Debug\Time_validation_Script.exe
+C:\Users\adjse\source\repos\Time_validation_Script\Time_validation_Script\bin\Debug\Time_validation_Script.pdb
+C:\Users\adjse\source\repos\Time_validation_Script\Time_validation_Script\obj\Debug\Time_validation_Script.csproj.AssemblyReference.cache
+C:\Users\adjse\source\repos\Time_validation_Script\Time_validation_Script\obj\Debug\Time_validation_Script.csproj.CoreCompileInputs.cache
+C:\Users\adjse\source\repos\Time_validation_Script\Time_validation_Script\obj\Debug\Time_validation_Script.exe
+C:\Users\adjse\source\repos\Time_validation_Script\Time_validation_Script\obj\Debug\Time_validation_Script.pdb
